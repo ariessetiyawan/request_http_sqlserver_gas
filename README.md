@@ -1,1 +1,1 @@
-# request_http_sqlserver_gas
+# How to access data in google spreadsheet with Transact-SQL on SQLSERVER
